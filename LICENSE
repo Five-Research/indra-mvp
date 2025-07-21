@@ -1,0 +1,85 @@
+Five Labs Community License v1.0
+
+Copyright © 2025 Five Labs
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Software and associated documentation files (the “Software”), to read, run, modify and share the Software for Non‑Commercial Use, subject to the conditions below.
+
+1. Definitions
+“Five Labs” means Five Labs Pvt. Ltd. and its authorised affiliates.
+
+“Non‑Commercial Use” means personal, academic, or internal evaluation that does not:
+(a) generate or is intended to generate revenue;
+(b) reduce operational costs; or
+(c) provide competitive advantage.
+
+“Commercial Use” means any of:
+(a) offering the Software or Derivative Works as a paid SaaS, paid API, on‑premises licence, or other revenue‑generating service;
+(b) distributing, hosting or integrating it in any product or service for monetary compensation or other commercial gain;
+(c) deploying it in production systems that deliver revenue, cost‑savings or competitive advantage to a business;
+(d) using the Software to train AI/ML models for commercial purposes;
+(e) using the Software in commercial research that leads to patents or proprietary intellectual property; or
+(f) deploying the Software in internal tools used in production operations or that materially influence business performance (e.g. reduce operating costs, increase conversion, or inform strategic decisions).
+
+“Derivative Work” means any work based on or derived from the Software, including modifications, translations, compilations, or any work containing the Software or portions thereof.
+
+“Contribution” means any work of authorship, including modifications, additions, or improvements to the Software, submitted by You to Five Labs or made publicly available.
+
+“You” / “Your” means any individual or legal entity exercising rights under this License.
+
+2. Copyright Grant for Non‑Commercial Use
+Five Labs grants You a worldwide, royalty‑free, non‑exclusive licence (revocable as provided in Section 12) to use, copy, modify, merge, publish, distribute and/or prepare Derivative Works of the Software solely for Non‑Commercial Use, provided that:
+
+Each copy or substantial portion of the Software and all Derivative Works include this License in its entirety;
+
+You retain the above copyright notice; and
+
+All copies and Derivative Works prominently display the original copyright notice and include a link to the original source repository where reasonably feasible.
+
+Redistribution of compiled forms (e.g., binaries, Docker images) for Non‑Commercial Use is permitted under the same conditions.
+
+3. Commercial Use
+Commercial Use of the Software or any Derivative Work is prohibited without a separate, written Commercial License from Five Labs.
+Contact: mehul@fivelabs.co.
+
+4. Contributions & Derivative Works
+Inbound Licence. By making any Contribution, You grant Five Labs and all Non‑Commercial Users a perpetual, worldwide, non‑exclusive, royalty‑free licence to use, reproduce, modify, and distribute Your Contribution under this License. Each Contributor also grants Five Labs and recipients a perpetual, worldwide, non‑exclusive, royalty‑free patent licence to make, use, and distribute the Contribution (and any larger work incorporating it) for Non‑Commercial Use.
+
+Outbound Licence. All Derivative Works must be distributed under this same License.
+
+No Contributor Licence Agreement (CLA) is required unless otherwise stated by Five Labs.
+
+5. Patent Licence
+Subject to Your compliance with this License, Five Labs grants to You a worldwide, royalty‑free patent licence to make, use, and distribute (but not sell or offer for sale) the Software for Non‑Commercial Use only.
+This patent licence terminates automatically if You (or any entity controlled by You) initiate patent litigation or assert a patent claim alleging that the Software or a Contribution infringes a patent.
+
+6. Trademarks
+Nothing in this License grants permission to use the “Five Labs” name, logo, or other trademarks. Fair use to identify the Software is permitted; all other use requires prior written consent from Five Labs.
+
+7. License Compatibility
+This Software may not be combined with software under licences incompatible with these terms without prior written permission from Five Labs. You are responsible for ensuring licence compatibility when incorporating third‑party components.
+
+8. Export Control and Compliance
+You are responsible for compliance with all applicable export control, sanctions, and similar laws. If Your implementation processes personal or regulated data, You are solely responsible for compliance with all applicable data protection and privacy laws. This License does not create any data processing obligations on Five Labs.
+
+9. Disclaimer of Warranty
+The Software is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose and non‑infringement.
+
+10. Limitation of Liability
+To the maximum extent permitted by law, in no event shall Five Labs be liable for any claim, damages or other liability, whether in contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
+
+11. Indemnity
+You agree to indemnify, defend and hold harmless Five Labs from and against any claims, liabilities, damages, losses and expenses (including reasonable attorneys' fees) arising out of or related to (a) Your breach of this License, or (b) Your use or distribution of the Software.
+
+12. Termination
+This License and the rights granted hereunder terminate automatically if You breach any term and fail to cure such breach within 30 calendar days of written notice (email sufficient) sent to the address associated with Your account or publicly listed contact. Any unauthorized Commercial Use constitutes a material breach. For material breaches involving Commercial Use, Five Labs may seek immediate injunctive relief without the 30‑day cure period.
+
+Upon termination, You must cease all use and distribution of the Software and destroy all copies in Your possession.
+Sections 5–11 and 13–14 survive termination.
+
+13. Governing Law & Venue
+This License is governed by the laws of India. Any dispute arising under or in connection with this License shall be submitted to the exclusive jurisdiction of the courts located in Bengaluru, Karnataka, India.
+
+14. Severability & Entire Agreement
+If any provision of this License is held unenforceable, that provision shall be re‑interpreted to best accomplish its objectives, and the remaining provisions shall continue in full force and effect. This License constitutes the entire agreement between the parties with respect to the Software.
+
+— End of Five Labs Community License v1.0
