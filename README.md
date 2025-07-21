@@ -80,4 +80,4 @@ python test_framework.py
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file.
+Five Labs Community License - see [LICENSE](LICENSE) file.
