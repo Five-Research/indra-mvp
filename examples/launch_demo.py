@@ -151,10 +151,7 @@ def run_demo(demo_config):
     # Run the workflow
     success = run_workflow(
         prompt=demo_config['prompt'],
-        output_dir="demo_results",
-        timeout=45,  # Longer timeout for demos
-        verbose=True,
-        keep_files=True
+        output_dir="demo_results"
     )
     
     print("=" * 60)
@@ -202,7 +199,7 @@ def show_next_steps():
     print("   python test_framework.py")
     print()
     print("5. 📊 Check system status:")
-    print("   indra status --verbose")
+    print("   indra status")
 
 
 def main():

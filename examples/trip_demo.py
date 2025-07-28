@@ -37,11 +37,7 @@ def main():
     # Run the workflow
     success = run_workflow(
         prompt=prompt,
-        output_dir="demo_results",
-        timeout=30,
-        api_key=api_key,
-        verbose=True,
-        keep_files=True
+        output_dir="demo_results"
     )
     
     if success:
