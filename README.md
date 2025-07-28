@@ -225,33 +225,6 @@ python examples/launch_demo.py
 python examples/trip_demo.py
 ```
 
-## 📚 Documentation
+## License
 
-- **[Getting Started Guide](docs/getting-started/)** - Installation and first steps
-- **[Core Concepts](docs/core-concepts/)** - Understanding Indra's architecture
-- **[API Reference](docs/api-reference/)** - Detailed technical documentation
-- **[Examples](docs/examples/)** - Real-world usage examples
-- **[Guides](docs/guides/)** - Step-by-step tutorials
-
-## 🏢 Enterprise Features
-
-- **🔒 Secure Execution** - Isolated task execution with proper error boundaries
-- **📈 Scalable Architecture** - Designed for high-throughput workflows
-- **🔍 Full Observability** - Complete audit trails and monitoring
-- **💼 Budget Management** - Enterprise-grade cost tracking and limits
-- **🔄 Fault Tolerance** - Sophisticated retry and recovery mechanisms
-- **🧠 Context Persistence** - Long-term memory across workflow sessions
-
-## 🤝 Contributing
-
-We welcome contributions! Please check our GitHub repository for issues and feature requests.
-
-## 📄 License
-
-**Five Labs Community License v1.0** - see [LICENSE](LICENSE) file.
-
-This software is free for non-commercial use. For commercial licensing, contact: mehul@fivelabs.co
-
----
-
-*Ready to orchestrate your AI workflows? Get started with the [Installation Guide](docs/getting-started/installation.md)!*
+MIT License - see [LICENSE](LICENSE) file.
